@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  country: MyString
+  city: MyString
+  arrival_date: 2014-08-09
+  leave_date: 2014-08-09
+
+two:
+  country: MyString
+  city: MyString
+  arrival_date: 2014-08-09
+  leave_date: 2014-08-09
